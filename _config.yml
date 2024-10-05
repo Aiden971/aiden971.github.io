@@ -4,7 +4,6 @@ description: Joseph Dawoud's CV
 
 defaults:
   - scope:
-      path: "/contact/"
     values:
       title: "Contact Me"
       email: "joseph.m.dawoud@gmail.com"
