@@ -48,18 +48,7 @@ A national government organization that aims to teach junior tech enthusiasts th
 <br><br>
 
 ## 🖥️ Skills
-| Skills | Skills |
-| :-------------: | :-------------: |
-| Python | Metasploit |
-| Network Routing & Switching | OSINT |
-| Network Security | Professional Troubleshooting skills |
-| Cisco IOS CLI | Research & Report Writing  |
-| The Linux Terminal| Operations Support  |
-| Vim Text Editor | Critical Thinking  |
-| Git and Github | Analytical Thinking |
-| On-Prem Windows Server | Presentation Skills |
-| Microsoft Entra ID (Formerly Azure AD) | Teamwork |
-| Microsoft Intune Admin Center | English Fluency  |
+|  Python  |  Metasploit  |  Network Routing & Switching  |  OSINT  |  Network Security  |  Professional Troubleshooting skills  |  Cisco IOS CLI  |  Research & Report Writing  |  The Linux Terminal  |  Operations Support  |  Vim Text Editor  |  Critical Thinking  |  Git and Github  |  Analytical Thinking  |  On-Prem Windows Server  |  Presentation Skills  |  Microsoft Entra ID (Formerly Azure AD)  |  Teamwork  |  Microsoft Intune Admin Center  |  English Fluency  |
 
 ## 🏆 Accomplishments
 
