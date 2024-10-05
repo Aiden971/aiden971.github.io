@@ -3,7 +3,6 @@ title: 👨‍💻📖🎧
 description: Joseph Dawoud's CV
 
 defaults:
-  - scope:
     values:
       title: "Contact Me"
       email: "joseph.m.dawoud@gmail.com"
