@@ -1,16 +1,4 @@
 theme: jekyll-theme-minimal
 title: 👨‍💻📖🎧
 description: Joseph Dawoud's CV
-
-defaults:
-    values:
-      title: "Contact Me"
-      email: "joseph.m.dawoud@gmail.com"
-      social_links:
-        - label: LinkedIn
-          url: "www.linkedin.com/in/jdawoud"
-        - label: GitHub
-          url: "https://github.com/Aiden971"
-        - label: Spotify
-          url: "https://open.spotify.com/show/4YpFWUcTfIKnGX128JeVDY?si=ef1f16d0d28145bc&nd=1&dlsi=f906c2e0c2f6443a"
         
