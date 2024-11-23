@@ -9,19 +9,22 @@ _An IT specialist interested in **Cyber Security** and **Operating Systems**_ <b
 
 **IT Analyst** @ [Orange Business](https://www.orange-business.com/en) _(Jan 2024 - Present)_ <br>
 An IT service provider for big companies like Puma, Louis Vuitton, Heinken, and many others.
-  - Specialized support in MS365.
-  - More administration in Microsoft Entra ID and Intune Admin Center.
-  - Maintaining Lotus Notes servers and clusters operational.
-  - Troubleshooting internal OB network in all OB sites for flapping and disconnections.
-  - Administration of several internal communication tools.
-  - Liaising with different stakeholders for deep-investigative issues.
-  - Managing business partners' guest accounts.
-  - Investigating phishing emails by analyzing email headers.
-  - Investigating the isolation of machines from the internal network based on event viewer logs.
-  - Monitoring the updates done by Microsoft to our tenant.
-  - Reporting bugs during tools' migrations to product owners.
-  - Discussing GPO updates with L3 admins to ensure stability and security to end users.
-  - **_Technologies used:_** Vim, MDE Configuration Manager, Lotus Notes, CCNA, PowerShell, Microsoft Entra ID, Microsoft Intune Admin Center, Windows Server, Email Forensics, Python, AutoHotKey.
+- Specialized support in MS365 products and solutions.
+- Investigating technical problems such as wrong SMTP, hybrid joining, etc....
+- Specialized administration in Microsoft Entra ID and Intune Admin Center.
+- Maintaining Lotus Notes servers and clusters operational.
+- Troubleshooting internal OB network in all OB sites for flapping and disconnections.
+- Administration of several internal communication tools.
+- Liaising with different stakeholders for deep-investigative issues.
+- Managing business partners' and customers' guest accounts.
+- Investigating phishing emails by analyzing email headers and doing static and dynamic analysis of the phishing email in a safe sandbox environment.
+- Investigating the isolation of machines from the internal network based on event viewer logs.
+- Monitoring the updates done by Microsoft to our tenant.
+- Reporting bugs during tools' migrations to product owners.
+- Discussing GPO updates with L3 admins to ensure stability and security to end users.
+- Creating and updating Exchange mailboxes/distribution lists and fixing their technical issues in common AD.
+
+**_Technologies used:_** Vim, MDE Configuration Manager, Lotus Notes, CCNA, PowerShell, Microsoft Entra ID, Microsoft Intune Admin Center, Windows Server, Email Forensics, Python, AutoHotKey.
 <br><br>
 
 **IT Service Desk Engineer** @ [Orange Business](https://www.orange-business.com/en) _(May 2022 - Jan 2024)_ <br>
@@ -38,13 +41,14 @@ An IT service provider for big companies like Puma, Louis Vuitton, Heinken, and 
   - Managing support forums to support users directly via chat and sending them solutions.
   - Reporting phishing and spam incidents to the internal security team.
 
-  - **_Technologies used:_** Vim, AutoHotKey, Lotus Notes, Azure Active Directory, CCNA, PowerShell, Microsoft Intune Admin Center, Python.
+**_Technologies used:_** Vim, AutoHotKey, Lotus Notes, Azure Active Directory, CCNA, PowerShell, Microsoft Intune Admin Center, Python.
   <br><br>
 
   **Customer Service Agent** @ [Vodafone Egypt](https://web.vodafone.com.eg/en/home) _(Nov 2021 - Jan 2022)_ <br>
 A national government organization that aims to teach junior tech enthusiasts the basis of IT, security, and many other tech fields.
   - I helped customers solve their network problems and configure their routers. Also, I escalated complex issues and created SRs for outages in customers’ sites.
-  - **_Technologies used:_** Telephone etiquette, customer experience mindset, operations support.
+
+**_Technologies used:_** Telephone etiquette, customer experience mindset, operations support.
 <br><br>
 
 ## 🖥️ Skills
