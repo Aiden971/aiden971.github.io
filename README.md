@@ -8,7 +8,7 @@ _An IT specialist interested in **Cyber Security** and **Operating Systems**_ <b
 ## 🧑‍💻 Experience
 
 **IT Analyst** @ [Orange Business](https://www.orange-business.com/en) _(Jan 2024 - Present)_ <br>
-An IT service provider for big companies like Puma, Louis Vuitton, Heinken, and many others.
+An IT service provider for big companies like Puma, Louis Vuitton, Heineken, and many others.
 - Specialized support in MS365 products and solutions.
 - Investigating technical problems such as wrong SMTP, hybrid joining, etc....
 - Specialized administration in Microsoft Entra ID and Intune Admin Center.
@@ -24,11 +24,11 @@ An IT service provider for big companies like Puma, Louis Vuitton, Heinken, and 
 - Discussing GPO updates with L3 admins to ensure stability and security to end users.
 - Creating and updating Exchange mailboxes/distribution lists and fixing their technical issues in common AD.
 
-**_Technologies used:_** Vim, MDE Configuration Manager, Lotus Notes, CCNA, PowerShell, Microsoft Entra ID, Microsoft Intune Admin Center, Windows Server, Email Forensics, Python, AutoHotKey.
+**_Skills used:_** Vim, MDE Configuration Manager, Lotus Notes, CCNA, PowerShell, Microsoft Entra ID, Microsoft Intune Admin Center, Windows Server, Email Forensics, Python, AutoHotKey.
 <br><br>
 
 **IT Service Desk Engineer** @ [Orange Business](https://www.orange-business.com/en) _(May 2022 - Jan 2024)_ <br>
-An IT service provider for big companies like Puma, Louis Vuitton, Heinken, and many others.
+An IT service provider for big companies like Puma, Louis Vuitton, Heineken, and many others.
   - Supporting Orange Business users worldwide in their local issues on their computers such as troubles in sending emails, trouble communicating with other users, network connectivity problems, corrupted files, corrupted system files, storage issues, voice and video issues, and lots and lots of other local issues.
   - Managing the VPN tokens of Orange Business users worldwide.
   - Managing the AD account of OB users and detecting fraudulent access.
@@ -41,14 +41,14 @@ An IT service provider for big companies like Puma, Louis Vuitton, Heinken, and 
   - Managing support forums to support users directly via chat and sending them solutions.
   - Reporting phishing and spam incidents to the internal security team.
 
-**_Technologies used:_** Vim, AutoHotKey, Lotus Notes, Azure Active Directory, CCNA, PowerShell, Microsoft Intune Admin Center, Python.
+**_Skills used:_** Vim, AutoHotKey, Lotus Notes, Azure Active Directory, CCNA, PowerShell, Microsoft Intune Admin Center, Python.
   <br><br>
 
   **Customer Service Agent** @ [Vodafone Egypt](https://web.vodafone.com.eg/en/home) _(Nov 2021 - Jan 2022)_ <br>
-A national government organization that aims to teach junior tech enthusiasts the basis of IT, security, and many other tech fields.
+The telecommunications British giant, providing mobile subscribtions, WAN infrastructures, and LAN support.
   - I helped customers solve their network problems and configure their routers. Also, I escalated complex issues and created SRs for outages in customers’ sites.
 
-**_Technologies used:_** Telephone etiquette, customer experience mindset, operations support.
+**_Skills used:_** Telephone etiquette, customer experience mindset, operations support.
 <br><br>
 
 ## 🖥️ Skills
