@@ -1,6 +1,6 @@
 ## _An IT specialist interested in **Cyber Security** and **Operating Systems**_
 
-[Email](mailto:joseph.m.dawoud@gmail.com) / [LinkedIn](https://www.linkedin.com/in/jdawoud/) / [Github](https://github.com/Aiden971) / [My Podcast](https://open.spotify.com/show/4YpFWUcTfIKnGX128JeVDY?si=ef1f16d0d28145bc)
+[Email](mailto:joseph.dawoud@outlook.com) / [LinkedIn](https://www.linkedin.com/in/jdawoud/) / [Github](https://github.com/Aiden971)
 
 ## 🧑‍💻 Experience
 
