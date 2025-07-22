@@ -53,7 +53,7 @@ The telecommunications British giant, providing mobile subscribtions, WAN infras
 
 ## 🏆 Accomplishments
 
-[**Change Maker Awards**](https://drive.google.com/drive/folders/1ZPEXDSeBPVVwIAjkjbbAtj8mQsVlUU1K?usp=sharing) @ Orange Business for the following accomplishments:
+[**Change Maker Awards**](https://drive.google.com/drive/folders/1P73kZE905-d_Kgl692m-g7dVId_oEYgL?usp=sharing) @ Orange Business for the following accomplishments:
 - Developing a learning culture
 - Developing "Opportunities over problems" mindset
 - Team Spirit
