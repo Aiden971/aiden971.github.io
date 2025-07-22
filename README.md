@@ -61,7 +61,7 @@ The telecommunications British giant, providing mobile subscribtions, WAN infras
 
 ## Certifications
 
-[Updated certificates on OneDrive](https://1drv.ms/f/c/499867c145042b92/Eq93pBsVc-1Mn64nRHtRUT8BBEC3VLA9ACcI7xTJ46ceeQ?e=YVDMCV)<br><br>
+[Updated certificates on Google Drive](https://drive.google.com/drive/folders/1v5eGByiB6IElZ1w-5cyqjSSZkOP4L0NI?usp=sharing)<br><br>
 [Updated certificates on Credly](https://www.credly.com/users/joseph-dawoud.14d0271b)
 
 
