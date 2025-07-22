@@ -1,6 +1,6 @@
 ## _An IT specialist interested in **Cyber Security** and **Operating Systems**_
 
-[Email](mailto:joseph.dawoud@outlook.com) / [LinkedIn](https://www.linkedin.com/in/jdawoud/) / [Github](https://github.com/Aiden971)
+[Email](mailto:joseph.m.dawoud@gmail.com) / [LinkedIn](https://www.linkedin.com/in/jdawoud/) / [Github](https://github.com/Aiden971)
 
 ## 🧑‍💻 Experience
 
@@ -53,7 +53,7 @@ The telecommunications British giant, providing mobile subscribtions, WAN infras
 
 ## 🏆 Accomplishments
 
-[**Change Maker Awards**](https://drive.google.com/drive/folders/1RvUkSl2XT9_57GxvXtkW9c10W_OdBSeW?usp=drive_link) @ Orange Business for the following accomplishments:
+[**Change Maker Awards**](https://drive.google.com/drive/folders/1ZPEXDSeBPVVwIAjkjbbAtj8mQsVlUU1K?usp=sharing) @ Orange Business for the following accomplishments:
 - Developing a learning culture
 - Developing "Opportunities over problems" mindset
 - Team Spirit
